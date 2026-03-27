@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # AI Face Detector with Email Notification
 
 This project is a Python-based real-time face detection system that uses OpenCV Haar cascades to detect faces through a webcam. When a face is detected, it automatically sends an email notification to a specified address.
@@ -207,18 +207,6 @@ python main.py
 * Cloud integration (MQTT / Firebase)
 * Face recognition to identify known people
 
----
 
-## 🙌 Acknowledgements
 
-* [OpenCV](https://opencv.org)
-* [Python SMTP Library](https://docs.python.org/3/library/smtplib.html)
-* Haar Cascade models by OpenCV
 
----
-
-**Happy coding! 🎉**
-
-```
-
->>>>>>> 92da78477832b17ca493318eef1fc03935b9f59b
